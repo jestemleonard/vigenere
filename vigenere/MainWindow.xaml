@@ -14,7 +14,7 @@
         <Button x:Name="Encrypt_Button" Content="Encrypt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="242,213,0,0" Height="58" Click="Encrypt_Button_Click"/>
         <TextBlock x:Name="label3" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Key:" VerticalAlignment="Top" Margin="330,323,0,0"/>
         <TextBox x:Name="KeyText" HorizontalAlignment="Left" Height="37" Margin="356,323,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="72"/>
-        <Button x:Name="Decrypt_Button" Content="Encrypt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="467,213,0,0" Height="58" Click="Decrypt_Button_Click"/>
+        <Button x:Name="Decrypt_Button" Content="Decrypt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="467,213,0,0" Height="58" Click="Decrypt_Button_Click"/>
 
     </Grid>
 </Window>
